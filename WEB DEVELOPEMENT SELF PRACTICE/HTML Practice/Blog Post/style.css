@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html {
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: antiquewhite;
+}
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 2px solid rgb(134, 129, 31);
+    background-color: rgba(160, 177, 28, 0.982);
+}
+.top h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+.up{
+    display: flex;
+    list-style: none;
+    gap: 20vw;
+    padding: 5vh;
+}
+.list{
+    font-size: large;
+   color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+article{
+    border: 2px solid black;
+    height: 50vh;
+    width: 80vw ;
+    margin: 10vh auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(231, 186, 128);
+    border-radius: 20px;
+}
+footer{
+border: 2px solid black;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 5vh;
+background-color: rgb(176, 186, 109);
+}
+.list a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.list a:hover{
+    color: yellow;
+}

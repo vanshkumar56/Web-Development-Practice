@@ -1,0 +1,10 @@
+What We Have Learnt?
+1. To make smooth scroll in Html use 
+html {
+    scroll-behavior: smooth;
+}
+2. To make Buttons work In nav bar use Amper Tags Like example 
+          <li class="list"><a href="#home">Home</a></li>
+          <li class="list"><a href="#blogs">Blogs</a></li>
+          <li class="list"><a href="#footer">Footer</a></li>
+3. How to Use Multiple Tags Like Article And Nav inside Header

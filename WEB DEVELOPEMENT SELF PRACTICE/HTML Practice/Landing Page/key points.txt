@@ -1,1 +1,2 @@
 1. If we Had to Keep image in backgrounf then we will apply it in Css Not in Html
+2. If we Have To make our website responsive then we will use Media query

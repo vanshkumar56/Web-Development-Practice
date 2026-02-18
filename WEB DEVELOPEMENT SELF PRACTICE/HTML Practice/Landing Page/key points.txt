@@ -1,0 +1,1 @@
+1. If we Had to Keep image in backgrounf then we will apply it in Css Not in Html

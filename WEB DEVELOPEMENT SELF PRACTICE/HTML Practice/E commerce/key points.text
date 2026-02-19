@@ -1,0 +1,6 @@
+1. To Have the Transisition Like i HAve Shown In Buttons Uper Part you have to add transform 
+2. we have to use diplay inline for inline elements 
+3. We can use Aspect ratio To make the Perfect square
+4.Use Grid For Grid Animation
+5. To make enlarge Effect we will use  
+transform: scale(x);

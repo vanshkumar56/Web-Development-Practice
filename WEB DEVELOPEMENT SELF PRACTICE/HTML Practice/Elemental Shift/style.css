@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  height: 20vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+  background-color: rgb(107, 74, 32);
+}
+.Heading {
+  font-weight: bold;
+  font-size: 50px;
+  color: rgb(227, 226, 202);
+}
+.heading {
+  font-size: larger;
+  color: rgb(244, 243, 216);
+}
+section {
+  height: 10px;
+  display: flex;
+}
+.green {
+  background-color: aquamarine;
+  width: 20vw;
+}
+.red {
+  background-color: rgb(255, 136, 127);
+  width: 20vw;
+}
+.orange {
+  background-color: rgb(255, 191, 127);
+  width: 20vw;
+}
+.blue {
+  background-color: rgb(127, 206, 255);
+  width: 20vw;
+}
+.violet {
+  background-color: rgb(221, 127, 255);
+  width: 20vw;
+}
+main {
+  display: flex;
+ 
+}
+.blog {
+  width: 20vw; 
+}
+.blog:hover {
+  color: aquamarine;
+  opacity: 50%;
+}
+.portfolio {
+  width: 20vw;
+}
+.portfolio:hover {
+  color: rgb(255, 136, 127);
+  opacity: 50%;
+}
+.xp {
+  width: 20vw;
+}
+.xp:hover {
+  color: rgb(255, 191, 127);
+  opacity: 50%;
+}
+.ab {
+  width: 20vw;
+}
+.ab:hover {
+  color: rgb(127, 206, 255);
+  opacity: 50%;
+}
+.contact {
+  width: 20vw;
+}
+.contact:hover {
+  color: rgb(221, 127, 255);
+  opacity: 50%;
+}

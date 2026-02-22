@@ -1,0 +1,6 @@
+1. To use any image As Background Apply itt in Css Using BAckground Image tag and Dont forget to use 
+background-size: cover;
+background-position: center;
+2.To make Background Transcluent Use 
+  background: rgba(0, 0, 0, 0.399);
+Here 0.399 represnt what the opacity is 0 for transparent and 1 for solid

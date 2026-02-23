@@ -1,2 +1,5 @@
 1. for Any Form Use <form> </form>
 2. Use Label For Like fill ups
+3.Use Option To get options
+4. Use  <input type="checkbox" id="service1" name="services" value="service1"> for checkboxes
+5.Use input[type="text"], This to select a particular input

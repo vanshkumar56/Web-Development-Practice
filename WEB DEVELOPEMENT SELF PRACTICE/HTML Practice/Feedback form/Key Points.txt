@@ -1,0 +1,2 @@
+1. for Any Form Use <form> </form>
+2. Use Label For Like fill ups

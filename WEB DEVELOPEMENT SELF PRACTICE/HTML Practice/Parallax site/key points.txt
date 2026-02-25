@@ -1,0 +1,17 @@
+1. Agar Parallax Effect Chaiye To ye lagao
+.parallax-section {
+    background-image: url("your-image.jpg");  ye background Image Ka Path h
+    background-attachment: fixed;             ye must h parallax ke liye isse bg image page ke sath scroll nhi kregi
+    background-position: center;              isse centre me aa jayegi
+    background-repeat: no-repeat;             isse repeat nhi karega
+    background-size: cover;                   isse pecche ki image enlarge ho jayei as a cover photo
+
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}

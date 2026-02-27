@@ -1,0 +1,10 @@
+1. ::after = element ke baad kuch chipka do
+
+2. + = bilkul next wala element
+
+3. ~ = baad me jo bhi element aaye
+
+4. Cursor:pointer lagane se cursor pointer me change ho jayega us area pr
+
+5.Rotate ke liye transform use karenge.
+ Ex: transform:rotate(45deg);

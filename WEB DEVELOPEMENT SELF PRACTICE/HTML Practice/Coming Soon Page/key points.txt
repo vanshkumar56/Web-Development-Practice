@@ -1,0 +1,4 @@
+1.     backdrop-filter: blur(5px);
+ye use krke hum background blur kr sakte h
+2. Clamp Hamara ye batayega ki first value min h beech wali prefered aur last wali max
+Ex- clamp(MIN, PREFERRED, MAX)

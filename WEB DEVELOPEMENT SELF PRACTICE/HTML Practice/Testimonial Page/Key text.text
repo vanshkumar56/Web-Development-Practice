@@ -1,0 +1,4 @@
+1. To Get Particular Item In a Row we use
+Ex: grid-template-columns: repeat(3, 1fr);
+2. We Can Bring Shadow By using Box Shadow
+Ex:  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
